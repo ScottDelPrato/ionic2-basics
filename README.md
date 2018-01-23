@@ -1,2 +1,2 @@
 # ionic2-basics
-first build of ionic2 app
+website hosting for first build of ionic2 app
